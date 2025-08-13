@@ -1,0 +1,120 @@
+RAPORT COORDONATE GPS PENTRU GAP-URILE DIN VIE
+============================================================
+
+Total gap-uri detectate: 50
+Rânduri cu gap-uri: 15/22
+Prag minim pentru gap-uri: 15 pixeli
+CRS: EPSG:4326
+
+DETALII PE RÂNDURI:
+------------------------------------------------------------
+
+RANDUL 1:
+  Numărul de gap-uri: 2
+  Coordonate GPS:
+    Gap 1: 46.183620°N, 23.860020°E
+    Gap 2: 46.183601°N, 23.860043°E
+
+RANDUL 2:
+  Numărul de gap-uri: 4
+  Coordonate GPS:
+    Gap 1: 46.183821°N, 23.859806°E
+    Gap 2: 46.183762°N, 23.859881°E
+    Gap 3: 46.183740°N, 23.859908°E
+    Gap 4: 46.183720°N, 23.859934°E
+
+RANDUL 3:
+  Numărul de gap-uri: 2
+  Coordonate GPS:
+    Gap 1: 46.183750°N, 23.859937°E
+    Gap 2: 46.183721°N, 23.859973°E
+
+RANDUL 5:
+  Numărul de gap-uri: 7
+  Coordonate GPS:
+    Gap 1: 46.183910°N, 23.859814°E
+    Gap 2: 46.183899°N, 23.859828°E
+    Gap 3: 46.183873°N, 23.859860°E
+    Gap 4: 46.183851°N, 23.859887°E
+    Gap 5: 46.183774°N, 23.859984°E
+    Gap 6: 46.183745°N, 23.860019°E
+    Gap 7: 46.183698°N, 23.860078°E
+
+RANDUL 6:
+  Numărul de gap-uri: 5
+  Coordonate GPS:
+    Gap 1: 46.183941°N, 23.859810°E
+    Gap 2: 46.183862°N, 23.859909°E
+    Gap 3: 46.183843°N, 23.859933°E
+    Gap 4: 46.183832°N, 23.859946°E
+    Gap 5: 46.183767°N, 23.860028°E
+
+RANDUL 8:
+  Numărul de gap-uri: 2
+  Coordonate GPS:
+    Gap 1: 46.183884°N, 23.859957°E
+    Gap 2: 46.183744°N, 23.860131°E
+
+RANDUL 9:
+  Numărul de gap-uri: 3
+  Coordonate GPS:
+    Gap 1: 46.183999°N, 23.859849°E
+    Gap 2: 46.183867°N, 23.860016°E
+    Gap 3: 46.183834°N, 23.860057°E
+
+RANDUL 14:
+  Numărul de gap-uri: 7
+  Coordonate GPS:
+    Gap 1: 46.184036°N, 23.859993°E
+    Gap 2: 46.183974°N, 23.860070°E
+    Gap 3: 46.183957°N, 23.860092°E
+    Gap 4: 46.183943°N, 23.860109°E
+    Gap 5: 46.183900°N, 23.860163°E
+    Gap 6: 46.183868°N, 23.860202°E
+    Gap 7: 46.183846°N, 23.860229°E
+
+RANDUL 15:
+  Numărul de gap-uri: 1
+  Coordonate GPS:
+    Gap 1: 46.183873°N, 23.860236°E
+
+RANDUL 16:
+  Numărul de gap-uri: 3
+  Coordonate GPS:
+    Gap 1: 46.184071°N, 23.860024°E
+    Gap 2: 46.184008°N, 23.860102°E
+    Gap 3: 46.183913°N, 23.860220°E
+
+RANDUL 17:
+  Numărul de gap-uri: 4
+  Coordonate GPS:
+    Gap 1: 46.184034°N, 23.860107°E
+    Gap 2: 46.183974°N, 23.860180°E
+    Gap 3: 46.183895°N, 23.860279°E
+    Gap 4: 46.183808°N, 23.860389°E
+
+RANDUL 18:
+  Numărul de gap-uri: 2
+  Coordonate GPS:
+    Gap 1: 46.184112°N, 23.860048°E
+    Gap 2: 46.183979°N, 23.860212°E
+
+RANDUL 19:
+  Numărul de gap-uri: 3
+  Coordonate GPS:
+    Gap 1: 46.184065°N, 23.860145°E
+    Gap 2: 46.184004°N, 23.860221°E
+    Gap 3: 46.183836°N, 23.860430°E
+
+RANDUL 20:
+  Numărul de gap-uri: 2
+  Coordonate GPS:
+    Gap 1: 46.184138°N, 23.860091°E
+    Gap 2: 46.183972°N, 23.860297°E
+
+RANDUL 22:
+  Numărul de gap-uri: 3
+  Coordonate GPS:
+    Gap 1: 46.184149°N, 23.860153°E
+    Gap 2: 46.184138°N, 23.860167°E
+    Gap 3: 46.183965°N, 23.860384°E

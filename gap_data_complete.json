@@ -1,0 +1,822 @@
+{
+  "metadata": {
+    "total_rows": 22,
+    "rows_with_gaps": 15,
+    "total_gaps": 50,
+    "min_area_pixels": 15,
+    "crs": "EPSG:4326",
+    "processing_date": "2025-08-13"
+  },
+  "statistics": {
+    "total_area_sqm": 58.069704260168095,
+    "average_gaps_per_row": 3.3333333333333335,
+    "average_gap_area_sqm": 1.161394085203362
+  },
+  "rows": [
+    {
+      "row_id": 1,
+      "gap_count": 2,
+      "total_area_sqm": 2.142169121975258,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.183620314503926,
+            "longitude": 23.860019946398605
+          },
+          "dimensions": {
+            "area_pixels": 22.0,
+            "area_sqm": 1.018365927096656,
+            "width_m": 0.9283029370047342,
+            "height_m": 1.097018964932417
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183620,23.860020"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.183601353197545,
+            "longitude": 23.86004324047994
+          },
+          "dimensions": {
+            "area_pixels": 23.0,
+            "area_sqm": 1.1238031948786018,
+            "width_m": 0.9704988637292702,
+            "height_m": 1.1579644622768948
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183601,23.860043"
+        }
+      ]
+    },
+    {
+      "row_id": 2,
+      "gap_count": 4,
+      "total_area_sqm": 5.333549081328316,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18382075475575,
+            "longitude": 23.85980618894635
+          },
+          "dimensions": {
+            "area_pixels": 26.0,
+            "area_sqm": 1.337243319230487,
+            "width_m": 1.0970812968382602,
+            "height_m": 1.2189099596213726
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183821,23.859806"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18376198199669,
+            "longitude": 23.859880730006626
+          },
+          "dimensions": {
+            "area_pixels": 26.0,
+            "area_sqm": 1.4041069978957132,
+            "width_m": 1.0970824781045525,
+            "height_m": 1.2798554583804966
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183762,23.859881"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.18374038490499,
+            "longitude": 23.859908134808197
+          },
+          "dimensions": {
+            "area_pixels": 32.0,
+            "area_sqm": 2.0573004707562736,
+            "width_m": 1.3502559095786173,
+            "height_m": 1.5236374498803773
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183740,23.859908"
+        },
+        {
+          "gap_id": 4,
+          "coordinates": {
+            "latitude": 46.183719660023804,
+            "longitude": 23.859934443417703
+          },
+          "dimensions": {
+            "area_pixels": 16.0,
+            "area_sqm": 0.5348982934458424,
+            "width_m": 0.675128170054248,
+            "height_m": 0.7922914746734122
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183720,23.859934"
+        }
+      ]
+    },
+    {
+      "row_id": 3,
+      "gap_count": 2,
+      "total_area_sqm": 2.047014400032989,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18374972994233,
+            "longitude": 23.859937457945875
+          },
+          "dimensions": {
+            "area_pixels": 15.0,
+            "area_sqm": 0.46289249982057035,
+            "width_m": 0.6329323125650453,
+            "height_m": 0.7313459759142882
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183750,23.859937"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18372100579531,
+            "longitude": 23.859973358235933
+          },
+          "dimensions": {
+            "area_pixels": 28.0,
+            "area_sqm": 1.5841219002124183,
+            "width_m": 1.1814743214589936,
+            "height_m": 1.3408009564322976
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183721,23.859973"
+        }
+      ]
+    },
+    {
+      "row_id": 5,
+      "gap_count": 7,
+      "total_area_sqm": 7.995175126061588,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.1839104925983,
+            "longitude": 23.859813862290792
+          },
+          "dimensions": {
+            "area_pixels": 18.0,
+            "area_sqm": 0.6943367286152643,
+            "width_m": 0.7595165640863063,
+            "height_m": 0.914182470069691
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183910,23.859814"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.183899035868755,
+            "longitude": 23.85982811278761
+          },
+          "dimensions": {
+            "area_pixels": 24.0,
+            "area_sqm": 1.1726578553827478,
+            "width_m": 1.0126889844934979,
+            "height_m": 1.1579644622768948
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183899,23.859828"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.18387349611618,
+            "longitude": 23.85985990235743
+          },
+          "dimensions": {
+            "area_pixels": 18.0,
+            "area_sqm": 0.6480480454731886,
+            "width_m": 0.7595170711810467,
+            "height_m": 0.853236971310567
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183873,23.859860"
+        },
+        {
+          "gap_id": 4,
+          "coordinates": {
+            "latitude": 46.18385144286336,
+            "longitude": 23.859887307159003
+          },
+          "dimensions": {
+            "area_pixels": 16.0,
+            "area_sqm": 0.5348970132892783,
+            "width_m": 0.6751265548923128,
+            "height_m": 0.7922914739660891
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183851,23.859887"
+        },
+        {
+          "gap_id": 5,
+          "coordinates": {
+            "latitude": 46.18377381876291,
+            "longitude": 23.85998377206053
+          },
+          "dimensions": {
+            "area_pixels": 36.0,
+            "area_sqm": 2.6847755357241416,
+            "width_m": 1.5190370049075779,
+            "height_m": 1.767419442087581
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183774,23.859984"
+        },
+        {
+          "gap_id": 6,
+          "coordinates": {
+            "latitude": 46.183745339404645,
+            "longitude": 23.860019124254556
+          },
+          "dimensions": {
+            "area_pixels": 19.0,
+            "area_sqm": 0.7329131907397191,
+            "width_m": 0.801714334649019,
+            "height_m": 0.914182470069691
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183745,23.860019"
+        },
+        {
+          "gap_id": 7,
+          "coordinates": {
+            "latitude": 46.18369819673546,
+            "longitude": 23.86007777052992
+          },
+          "dimensions": {
+            "area_pixels": 27.0,
+            "area_sqm": 1.5275467568372485,
+            "width_m": 1.1392792869925277,
+            "height_m": 1.3408009557249745
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183698,23.860078"
+        }
+      ]
+    },
+    {
+      "row_id": 6,
+      "gap_count": 5,
+      "total_area_sqm": 6.094737127531684,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.183940905838085,
+            "longitude": 23.859810299666588
+          },
+          "dimensions": {
+            "area_pixels": 35.0,
+            "area_sqm": 2.520183931355764,
+            "width_m": 1.4768370417631893,
+            "height_m": 1.7064739440357801
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183941,23.859810"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.183862313434645,
+            "longitude": 23.859908682904226
+          },
+          "dimensions": {
+            "area_pixels": 24.0,
+            "area_sqm": 1.1726586374075114,
+            "width_m": 1.012689660456438,
+            "height_m": 1.1579644615695717
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183862,23.859909"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.18384301588687,
+            "longitude": 23.85993279912961
+          },
+          "dimensions": {
+            "area_pixels": 26.0,
+            "area_sqm": 1.4041049264141157,
+            "width_m": 1.0970808595767851,
+            "height_m": 1.2798554583804966
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183843,23.859933"
+        },
+        {
+          "gap_id": 4,
+          "coordinates": {
+            "latitude": 46.18383227320466,
+            "longitude": 23.85994622748238
+          },
+          "dimensions": {
+            "area_pixels": 15.0,
+            "area_sqm": 0.4628918031456335,
+            "width_m": 0.63293135997221,
+            "height_m": 0.7313459759142882
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183832,23.859946"
+        },
+        {
+          "gap_id": 5,
+          "coordinates": {
+            "latitude": 46.183767275866536,
+            "longitude": 23.860027619743043
+          },
+          "dimensions": {
+            "area_pixels": 16.0,
+            "area_sqm": 0.5348978292086597,
+            "width_m": 0.675127584714554,
+            "height_m": 0.7922914739660891
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183767,23.860028"
+        }
+      ]
+    },
+    {
+      "row_id": 8,
+      "gap_count": 2,
+      "total_area_sqm": 2.119017935875921,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.183883574993196,
+            "longitude": 23.859956915354992
+          },
+          "dimensions": {
+            "area_pixels": 16.0,
+            "area_sqm": 0.5348966986533936,
+            "width_m": 0.6751261577709313,
+            "height_m": 0.7922914739660891
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183884,23.859957"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18374402582863,
+            "longitude": 23.86013120989298
+          },
+          "dimensions": {
+            "area_pixels": 28.0,
+            "area_sqm": 1.5841212372225275,
+            "width_m": 1.181473826985979,
+            "height_m": 1.3408009564322976
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183744,23.860131"
+        }
+      ]
+    },
+    {
+      "row_id": 9,
+      "gap_count": 3,
+      "total_area_sqm": 3.9062884470045987,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18399902394818,
+            "longitude": 23.859849488532834
+          },
+          "dimensions": {
+            "area_pixels": 22.0,
+            "area_sqm": 1.0183589108256734,
+            "width_m": 0.9282965418423884,
+            "height_m": 1.0970189642250938
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183999,23.859849"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.183867226611575,
+            "longitude": 23.860015835678368
+          },
+          "dimensions": {
+            "area_pixels": 29.0,
+            "area_sqm": 1.7152703015224289,
+            "width_m": 1.2236665876128023,
+            "height_m": 1.4017464551914216
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183867,23.860016"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.18383442904905,
+            "longitude": 23.86005721692874
+          },
+          "dimensions": {
+            "area_pixels": 24.0,
+            "area_sqm": 1.1726592346564961,
+            "width_m": 1.0126901756127362,
+            "height_m": 1.1579644622768948
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183834,23.860057"
+        }
+      ]
+    },
+    {
+      "row_id": 14,
+      "gap_count": 7,
+      "total_area_sqm": 6.099873240181308,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18403582389082,
+            "longitude": 23.85999336374108
+          },
+          "dimensions": {
+            "area_pixels": 27.0,
+            "area_sqm": 1.5275373756016828,
+            "width_m": 1.139272290252612,
+            "height_m": 1.3408009557249745
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184036,23.859993"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18397423652498,
+            "longitude": 23.860070097185478
+          },
+          "dimensions": {
+            "area_pixels": 17.0,
+            "area_sqm": 0.6120442541987053,
+            "width_m": 0.717320362655209,
+            "height_m": 0.8532369720178901
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183974,23.860070"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.18395660072915,
+            "longitude": 23.860092021026734
+          },
+          "dimensions": {
+            "area_pixels": 17.0,
+            "area_sqm": 0.6120444496708932,
+            "width_m": 0.7173205917500494,
+            "height_m": 0.8532369720178901
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183957,23.860092"
+        },
+        {
+          "gap_id": 4,
+          "coordinates": {
+            "latitude": 46.18394316797989,
+            "longitude": 23.860108737955695
+          },
+          "dimensions": {
+            "area_pixels": 22.0,
+            "area_sqm": 1.018359946418438,
+            "width_m": 0.928297485848644,
+            "height_m": 1.0970189642250938
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183943,23.860109"
+        },
+        {
+          "gap_id": 5,
+          "coordinates": {
+            "latitude": 46.18389979863573,
+            "longitude": 23.86016272541479
+          },
+          "dimensions": {
+            "area_pixels": 15.0,
+            "area_sqm": 0.4628912353297957,
+            "width_m": 0.6329305835738205,
+            "height_m": 0.7313459759142882
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183900,23.860163"
+        },
+        {
+          "gap_id": 6,
+          "coordinates": {
+            "latitude": 46.183867869933835,
+            "longitude": 23.860202462377067
+          },
+          "dimensions": {
+            "area_pixels": 26.0,
+            "area_sqm": 1.4041042961625143,
+            "width_m": 1.0970803671371139,
+            "height_m": 1.2798554583804966
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183868,23.860202"
+        },
+        {
+          "gap_id": 7,
+          "coordinates": {
+            "latitude": 46.18384648716174,
+            "longitude": 23.86022904503459
+          },
+          "dimensions": {
+            "area_pixels": 15.0,
+            "area_sqm": 0.4628916827992786,
+            "width_m": 0.6329311954175958,
+            "height_m": 0.7313459759142882
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183846,23.860229"
+        }
+      ]
+    },
+    {
+      "row_id": 15,
+      "gap_count": 1,
+      "total_area_sqm": 0.8743505642885538,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18387261307257,
+            "longitude": 23.860235896234983
+          },
+          "dimensions": {
+            "area_pixels": 20.0,
+            "area_sqm": 0.8743505642885538,
+            "width_m": 0.8439078824350725,
+            "height_m": 1.0360734654659698
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183873,23.860236"
+        }
+      ]
+    },
+    {
+      "row_id": 16,
+      "gap_count": 3,
+      "total_area_sqm": 2.9856436154677164,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18407059112855,
+            "longitude": 23.86002405711884
+          },
+          "dimensions": {
+            "area_pixels": 19.0,
+            "area_sqm": 0.7329088574753521,
+            "width_m": 0.801709594605856,
+            "height_m": 0.914182470069691
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184071,23.860024"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.184007764418986,
+            "longitude": 23.86010216080332
+          },
+          "dimensions": {
+            "area_pixels": 24.0,
+            "area_sqm": 1.2343742525098589,
+            "width_m": 1.0126869854220322,
+            "height_m": 1.2189099596213726
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184008,23.860102"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.18391294795779,
+            "longitude": 23.86022000145007
+          },
+          "dimensions": {
+            "area_pixels": 22.0,
+            "area_sqm": 1.0183605054825056,
+            "width_m": 0.9282979948712581,
+            "height_m": 1.097018964932417
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183913,23.860220"
+        }
+      ]
+    },
+    {
+      "row_id": 17,
+      "gap_count": 4,
+      "total_area_sqm": 6.1821592162501275,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.1840339796933,
+            "longitude": 23.8601070936676
+          },
+          "dimensions": {
+            "area_pixels": 46.0,
+            "area_sqm": 4.495177822965932,
+            "width_m": 1.940982633494255,
+            "height_m": 2.3159289245537895
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184034,23.860107"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18397442997064,
+            "longitude": 23.860180264487795
+          },
+          "dimensions": {
+            "area_pixels": 17.0,
+            "area_sqm": 0.6120442541987053,
+            "width_m": 0.717320362655209,
+            "height_m": 0.8532369720178901
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183974,23.860180"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.183895310696464,
+            "longitude": 23.86027946986948
+          },
+          "dimensions": {
+            "area_pixels": 17.0,
+            "area_sqm": 0.6120451328829591,
+            "width_m": 0.7173213924796102,
+            "height_m": 0.8532369720178901
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183895,23.860279"
+        },
+        {
+          "gap_id": 4,
+          "coordinates": {
+            "latitude": 46.18380837621769,
+            "longitude": 23.86038854097973
+          },
+          "dimensions": {
+            "area_pixels": 15.0,
+            "area_sqm": 0.46289200620253146,
+            "width_m": 0.6329316376204156,
+            "height_m": 0.7313459759142882
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183808,23.860389"
+        }
+      ]
+    },
+    {
+      "row_id": 18,
+      "gap_count": 2,
+      "total_area_sqm": 1.0697902402764468,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18411247359832,
+            "longitude": 23.860048447392238
+          },
+          "dimensions": {
+            "area_pixels": 16.0,
+            "area_sqm": 0.5348944693392671,
+            "width_m": 0.6751233440158932,
+            "height_m": 0.7922914739660891
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184112,23.860048"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18397894370266,
+            "longitude": 23.860212328105632
+          },
+          "dimensions": {
+            "area_pixels": 16.0,
+            "area_sqm": 0.5348957709371797,
+            "width_m": 0.6751249868430034,
+            "height_m": 0.7922914739660891
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183979,23.860212"
+        }
+      ]
+    },
+    {
+      "row_id": 19,
+      "gap_count": 3,
+      "total_area_sqm": 3.664549379244515,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18406475118136,
+            "longitude": 23.860144638245753
+          },
+          "dimensions": {
+            "area_pixels": 27.0,
+            "area_sqm": 1.5275365692532763,
+            "width_m": 1.1392716882585308,
+            "height_m": 1.3408009564322976
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184065,23.860145"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18400381883025,
+            "longitude": 23.860220549546103
+          },
+          "dimensions": {
+            "area_pixels": 26.0,
+            "area_sqm": 1.4041008251250804,
+            "width_m": 1.097077655082865,
+            "height_m": 1.2798554583804966
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184004,23.860221"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.18383600602711,
+            "longitude": 23.86043019627812
+          },
+          "dimensions": {
+            "area_pixels": 19.0,
+            "area_sqm": 0.7329119848661585,
+            "width_m": 0.801713015575858,
+            "height_m": 0.914182470069691
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183836,23.860430"
+        }
+      ]
+    },
+    {
+      "row_id": 20,
+      "gap_count": 2,
+      "total_area_sqm": 4.382021965957564,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.1841377088531,
+            "longitude": 23.860090924834672
+          },
+          "dimensions": {
+            "area_pixels": 39.0,
+            "area_sqm": 3.2093656657848766,
+            "width_m": 1.6456125609685206,
+            "height_m": 1.9502559362429839
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184138,23.860091"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.18397174994225,
+            "longitude": 23.8602972829905
+          },
+          "dimensions": {
+            "area_pixels": 24.0,
+            "area_sqm": 1.172656300172687,
+            "width_m": 1.0126876414384116,
+            "height_m": 1.1579644622768948
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183972,23.860297"
+        }
+      ]
+    },
+    {
+      "row_id": 22,
+      "gap_count": 3,
+      "total_area_sqm": 3.1733647986915092,
+      "gaps": [
+        {
+          "gap_id": 1,
+          "coordinates": {
+            "latitude": 46.18414885347241,
+            "longitude": 23.86015313373424
+          },
+          "dimensions": {
+            "area_pixels": 28.0,
+            "area_sqm": 1.6561145627583422,
+            "width_m": 1.1814651340551183,
+            "height_m": 1.4017464544840985
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184149,23.860153"
+        },
+        {
+          "gap_id": 2,
+          "coordinates": {
+            "latitude": 46.184138001170986,
+            "longitude": 23.860166836135026
+          },
+          "dimensions": {
+            "area_pixels": 20.0,
+            "area_sqm": 0.8229141993348377,
+            "width_m": 0.8439038015903879,
+            "height_m": 0.9751279681214919
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.184138,23.860167"
+        },
+        {
+          "gap_id": 3,
+          "coordinates": {
+            "latitude": 46.183965302201436,
+            "longitude": 23.860384430259497
+          },
+          "dimensions": {
+            "area_pixels": 18.0,
+            "area_sqm": 0.6943360365983293,
+            "width_m": 0.759515807107303,
+            "height_m": 0.914182470069691
+          },
+          "google_maps_url": "https://maps.google.com/?q=46.183965,23.860384"
+        }
+      ]
+    }
+  ]
+}
